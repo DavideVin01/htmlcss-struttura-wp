@@ -10,8 +10,6 @@
 .container{
     width: 1200px;
     margin: 20px auto 0 auto;
-    /* background-color: rgb(253, 130, 130); */
-    height: 1200px;
 }
 
 .clearfix::after{
@@ -93,3 +91,8 @@
 }
 
 /* Footer */
+
+.footer-container{
+    width: 100%;
+    height: 50px;
+}
